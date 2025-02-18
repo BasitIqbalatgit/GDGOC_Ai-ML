@@ -1,2 +1,3 @@
 Hello, this is a test file!
 Python file handling is easy.
+This line is appended!
